@@ -2,7 +2,7 @@
  
 This page contains the materials to reproduce the findings in Van Beuningen, Schoonvelde, and De Wilde.
 
-The proposal data can be found [here](commission_proposal/.). The retrieved media data can be found [here](media_data/.).
+The proposal data can be found [here](commission_proposals/.). The retrieved media data can be found [here](media_data/.).
 
 This folder contains four RMarkdown files:
 
